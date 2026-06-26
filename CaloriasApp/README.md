@@ -71,8 +71,3 @@ git commit -m "fix: ajusta validação de calorias e mensagens de erro"
 | ViewModel Compose | 2.8.7 | Gerenciamento de estado |
 | Material3 | via BOM | Design system |
 
-## 📄 Documentação
-
-- [`docs/DECISOES.md`](docs/DECISOES.md) — Justificativas técnicas
-- [`docs/MAPEAMENTO.md`](docs/MAPEAMENTO.md) — Hierarquia de componentes
-- [`docs/ESTADO.md`](docs/ESTADO.md) — Plano de estado e persistência
