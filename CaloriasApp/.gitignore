@@ -1,0 +1,18 @@
+# Android Studio
+.gradle/
+.idea/
+.kotlin/
+
+# Build
+build/
+app/build/
+
+# Arquivos locais
+local.properties
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
